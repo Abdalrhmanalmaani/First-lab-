@@ -1,4 +1,4 @@
-# First-lab-
+# my-notes
 basics on git-hub
 ## Heading 2
 ### Heading 3
